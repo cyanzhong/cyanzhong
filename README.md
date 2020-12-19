@@ -3,7 +3,7 @@
 I'm Ying, an iOS software engineer at Microsoft.
 
 - 🔭 I'm currently working on [Outlook for iOS](https://apps.apple.com/us/app/id951937596), and a side project called [Taio](https://taio.app)
-- 🌱 I'm currently learning <del>[SwiftUI](https://developer.apple.com/xcode/swiftui/)</del>
+- <del>🌱 I'm currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)</del>
 - 📫 How to reach me: [@cyanapps](https://twitter.com/cyanapps)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my code is written by a [cat](https://twitter.com/cyanapps/status/1219640123186405382)
